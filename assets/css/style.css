@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+.img-cuppon{
+    height: 25px;
+    width: 86px;
+}
+
+.small{
+    font-size: 12px;
+}
+
